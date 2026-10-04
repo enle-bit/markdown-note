@@ -46,7 +46,7 @@
 3. 第三步
   
 
-## 5.链接与图片
+## 5.链接
 
 [Markdown官方教程](https://markdown.com.cn/)
 
