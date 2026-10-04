@@ -50,7 +50,6 @@
 
 [Markdown官方教程](https://markdown.com.cn/)
 
-![官网截图](https://github.com/user-attachments/assets/2dfbb01f-0412-4943-ac84-7c69dd2164cc）
 
 ## 6.引用
 
